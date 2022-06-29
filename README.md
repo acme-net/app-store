@@ -1,2 +1,2 @@
 # apps
-Doctor Apps, Patient Apps, Plugins, Super apps, Health-as-a-service (HaaS) platforms
+BAP Apps, BPP Apps, Plugins, Super apps, Saas-as-a-service (SaaS) platforms, SDKs, etc
